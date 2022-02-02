@@ -1,4 +1,4 @@
-# Lista de proyectos para practicar y demostrar mis habilidades en el frontend con diferentes lenguajes y herramientas
+# Lista de proyectos de practica de frontend con diferentes lenguajes, herramientas, librerias y frameworks
 
 ### 01-single-price-grid
 
