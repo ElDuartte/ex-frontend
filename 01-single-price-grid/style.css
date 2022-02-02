@@ -81,6 +81,12 @@ body {
 	margin-top: 15px;
 }
 
+.btn:active,
+.btn:hover {
+	background-color: var(--color-6);
+	color: var(--color-1);
+}
+
 .wrapper__component--why {
 	background: var(--color-3);
 	border-end-end-radius: 8px;
