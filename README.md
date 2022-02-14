@@ -5,3 +5,9 @@
 Este proyecto esta hecho con HTML y CSS, aplicando Responsive design, grid layout, entre otras.
 
 ![Screenshoot of the page -fullwidth](https://github.com/ElDuartte/ex-frontend/blob/main/00-img/01-img.png?raw=true)
+
+### 02-clock
+
+Este proyecto esta hecho con HTML, CSS y JavaScript.
+
+![Screenshoot of the page -fullwidth](https://github.com/ElDuartte/ex-frontend/blob/main/00-img/02-img.png?raw=true)

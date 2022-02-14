@@ -1,0 +1,27 @@
+body {
+	background: black;
+}
+
+.clock {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	color: #ffad05;
+	font-size: 60px;
+	font-family: "Nunito", sans-serif;
+	font-family: "Share Tech Mono", monospace;
+	transform: translateX(-50%) translateY(-50%);
+	animation: blink-animation 1s steps(100, end) infinite;
+	/* -webkit-animation: blink-animation 1s steps(5, start) infinite; */
+}
+
+@keyframes blink-animation {
+	to {
+		color: #865a00;
+	}
+}
+/* @-webkit-keyframes blink-animation {
+	to {
+		visibility: hidden;
+	}
+} */
