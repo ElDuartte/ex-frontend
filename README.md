@@ -8,6 +8,6 @@ Este proyecto esta hecho con HTML y CSS, aplicando Responsive design, grid layou
 
 ### 02-clock
 
-Este proyecto esta hecho con HTML, CSS y JavaScript.
+Este proyecto esta hecho con HTML, CSS y JavaScript..
 
 ![Screenshoot of the page -fullwidth](https://github.com/ElDuartte/ex-frontend/blob/main/00-img/02-img.png?raw=true)
